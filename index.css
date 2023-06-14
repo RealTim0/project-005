@@ -33,14 +33,14 @@
  #add-task{
     flex:1;
     background-color: white;
-    color: brown;
-    font-size: 1rem;
+    color:orange;
+    font-size: 1.1rem;
     border-radius: 5px;
-    border: 1px solid brown;
+    border: 1px solidorange;
     transition: .5s;
  }
  #add-task:hover{
-    background-color: brown;
+    background-color:orange;
     color: white;
     cursor: pointer; 
 
